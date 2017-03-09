@@ -1,0 +1,59 @@
+03-09 14:17:28.297  3651  5219 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:17:29.042  3651  5174 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+03-09 14:17:57.317  3651  5202 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:17:57.362  3651  3950 I ActivityManager: Displayed com.kakao.talk/.activity.SplashActivity: +201ms
+03-09 14:17:57.507  3651  5622 D ActivityManager: post active user change for 0 fullscreen false isFloatingActivity() false isHomeActivity() false
+03-09 14:17:57.777  3651  5622 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:17:58.052  3651  3950 I ActivityManager: Displayed com.kakao.talk/.activity.main.MainTabFragmentActivity: +543ms (total +591ms)
+03-09 14:18:04.507  3651  5619 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:18:05.217  3651  5174 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+03-09 14:18:07.752  3651  5619 D ActivityManager: The following uid has registered to recieve broadcast for proxy related updates 10186
+03-09 14:18:08.327  3651  5220 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:18:08.447  3651  3950 I ActivityManager: Displayed com.google.android.youtube/com.google.android.apps.youtube.app.WatchWhileActivity: +685ms (total +1s215ms)
+03-09 14:18:15.427  3651  5203 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:18:16.467  3651  3674 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+03-09 14:19:54.137  3651  5180 D ActivityManager: The following uid has registered to recieve broadcast for proxy related updates 10186
+03-09 14:19:54.602  3651  5202 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:19:54.702  3651  3950 I ActivityManager: Displayed com.google.android.youtube/com.google.android.apps.youtube.app.WatchWhileActivity: +558ms (total +1s105ms)
+03-09 14:20:03.922  3651  5622 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:20:04.702  3651  4733 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+03-09 14:20:08.182  3651  3673 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:20:08.217  3651  3950 I ActivityManager: Displayed com.kakao.talk/.activity.SplashActivity: +107ms
+03-09 14:20:08.342  3651  3673 D ActivityManager: post active user change for 0 fullscreen false isFloatingActivity() false isHomeActivity() false
+03-09 14:20:08.492  3651  5626 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:20:08.632  3651  3950 I ActivityManager: Displayed com.kakao.talk/.activity.main.MainTabFragmentActivity: +289ms (total +323ms)
+03-09 14:20:16.587  3651  3674 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:20:17.982  3651  5625 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+03-09 14:41:31.612  3651  3844 I ActivityManager: Force stopping com.google.android.apps.photos appid=10228 user=0: MARs-NonSticky-Kill-applockerpolicy(3)
+03-09 14:41:31.612  3651  3844 I ActivityManager: Killing 990:com.google.android.apps.photos/u0a228 (adj 15): stop com.google.android.apps.photos cause MARs-NonSticky-Kill-applockerpolicy(3)
+03-09 14:41:31.612  3651  3844 D ActivityManager: isAutoRunBlockedApp:: com.google.android.apps.photos, Auto Run ON
+03-09 14:41:31.927  3651  5180 I ActivityManager: Start proc 6722:com.sec.android.app.soundalive/u0a67 for broadcast-3 com.sec.android.app.soundalive/.SAControlPanelReceiver
+03-09 14:42:03.462  3651  3844 I ActivityManager: Killing 24254:com.kt.olleh.storefront/u0a136 (adj 15): DHA:SPC_empty #31
+03-09 14:42:03.547  3651  5174 D ActivityManager: isAutoRunBlockedApp:: com.kt.olleh.storefront, Auto Run ON
+03-09 14:42:03.547  3651  5174 W ActivityManager: Scheduling restart of crashed service com.kt.olleh.storefront/com.kt.android.ollehmarket.component.BackgroundService in 1000ms
+03-09 14:42:04.587  3651  3844 I ActivityManager: Start proc 6892:com.kt.olleh.storefront/u0a136 for service com.kt.olleh.storefront/com.kt.android.ollehmarket.component.BackgroundService
+03-09 14:45:01.262  3651  5622 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+03-09 14:45:01.572  3651  5620 I ActivityManager: Start proc 7745:com.samsung.android.sm/1000 for broadcast-3 com.samsung.android.sm/.ui.applocking.AppLockingUserReceiver
+03-09 14:45:01.717  3651  5203 I ActivityManager: Start proc 7760:com.sec.android.app.eventnotification/u0a110 for broadcast-3 com.sec.android.app.eventnotification/.IntentReceiver
+03-09 14:45:01.747  3651  5625 I ActivityManager: Start proc 7772:com.samsung.android.sm.provider/1000 for content provider com.samsung.android.sm.provider/com.samsung.android.sm.database.SmProvider
+03-09 14:45:01.832  3651  5626 I ActivityManager: Start proc 7786:com.samsung.festivaleffect.homescreen/u0a124 for broadcast-3 com.samsung.festivaleffect.homescreen/.UnlockBroadcastReceiver
+03-09 14:45:01.852  3651  5220 I ActivityManager: Killing 857:com.samsung.android.sm.devicesecurity/5012 (adj 15): DHA:empty #31
+03-09 14:45:01.897  3651  5626 I ActivityManager: Killing 869:com.sec.app.TransmitPowerService/u0a71 (adj 15): DHA:empty #31
+03-09 14:45:01.942  3651  5174 D ActivityManager: isAutoRunBlockedApp:: com.samsung.android.sm.devicesecurity, Auto Run ON
+03-09 14:45:01.982  3651  5625 D ActivityManager: isAutoRunBlockedApp:: com.sec.app.TransmitPowerService, Auto Run ON
+03-09 14:45:02.072  3651  5219 I ActivityManager: Killing 1254:com.sec.android.Kies/1000 (adj 15): DHA:empty #31
+03-09 14:45:02.097  3651  4733 I ActivityManager: Start proc 7807:eu.chainfire.supersu/u0a193 for broadcast-3 eu.chainfire.supersu/.UserPresentReceiver
+03-09 14:45:02.112  3651  5624 I ActivityManager: Killing 882:com.sec.knox.switcher/1000 (adj 15): DHA:empty #31
+03-09 14:45:02.132  3651  5180 D ActivityManager: isAutoRunBlockedApp:: com.sec.android.Kies, Auto Run ON
+03-09 14:45:02.177  3651  5625 D ActivityManager: isAutoRunBlockedApp:: com.sec.knox.switcher, Auto Run ON
+03-09 14:45:02.222  3651  5619 I ActivityManager: Killing 895:com.android.chrome/u0a93 (adj 15): DHA:empty #31
+03-09 14:45:02.277  3651  5202 D ActivityManager: isAutoRunBlockedApp:: com.android.chrome, Auto Run ON
+03-09 14:46:22.217  3651  5622 D ActivityManager: mDVFSHelper.acquire()
+03-09 14:46:22.227  3651  3673 D ActivityManager:  Launching com.kakao.talk, updated priority
+03-09 14:46:22.302  3651  5619 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:46:22.352  3651  3950 I ActivityManager: Displayed com.kakao.talk/.activity.SplashActivity: +126ms
+03-09 14:46:22.432  3651  5203 D ActivityManager: mDVFSHelper.acquire()
+03-09 14:46:22.467  3651  5622 D ActivityManager: mDVFSHelper.acquire()
+03-09 14:46:22.477  3651  5625 D ActivityManager: post active user change for 0 fullscreen false isFloatingActivity() false isHomeActivity() false
+03-09 14:46:22.627  3651  5626 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-09 14:46:22.842  3651  3950 I ActivityManager: Displayed com.kakao.talk/.activity.main.MainTabFragmentActivity: +367ms (total +402ms)

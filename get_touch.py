@@ -40,7 +40,6 @@ for row in getevent_file:
         touch_list.append(one_touch)
         one_touch = []
  
-print(touch_list)
 
 result = []
 for item in touch_list:
@@ -49,5 +48,6 @@ for item in touch_list:
     result.append(touch_event)
     touch_event = []
 
-
-print(result)
+print('시작시간 X1, Y1, X2, Y2, 이동시간')
+for touch_event in result:
+    print(touch_event)
