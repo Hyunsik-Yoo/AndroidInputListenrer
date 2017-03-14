@@ -1,0 +1,187 @@
+03-14 21:42:25.237  3641  5236 I ActivityManager: Killing 12047:com.google.android.apps.photos:CameraShortcut/u0a228 (adj 15): empty for 3226s
+03-14 21:42:25.302  3641  5457 D ActivityManager: isAutoRunBlockedApp:: com.google.android.apps.photos, Auto Run ON
+03-14 21:42:26.567  3641  5202 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+03-14 21:42:26.587  3641  5457 I ActivityManager: Start proc 17778:com.sec.android.app.camera/u0a47 for broadcast-3 com.sec.android.app.camera/.HomeResumeCamera
+03-14 21:42:26.782  3641  4567 I ActivityManager: Start proc 17792:com.android.mms/u0a58 for broadcast-3 com.android.mms/.UIEventReceiver
+03-14 21:42:27.092  3641  3658 I ActivityManager: Start proc 17809:com.samsung.android.coreapps/5011 for content provider com.samsung.android.coreapps/.easysignup.db.EasySignUpProviderPublic
+03-14 21:42:27.382  3641  5237 I ActivityManager: Start proc 17840:com.android.settings/1000 for broadcast-3 com.android.settings/.accessibilitywidget.AccessibilityWidgetProviderAssistiveLight
+03-14 21:42:27.382  3641  5237 I ActivityManager: Killing 12028:com.google.android.apps.plus/u0a143 (adj 15): empty for 2720s
+03-14 21:42:27.407  3641  5629 I ActivityManager: Start proc 17854:com.sec.android.provider.badge/u0a3 for content provider com.sec.android.provider.badge/.BadgeProvider
+03-14 21:42:27.412  3641  4567 D ActivityManager: isAutoRunBlockedApp:: com.google.android.apps.plus, Auto Run ON
+03-14 21:42:27.432  3641  3658 I ActivityManager: Killing 15256:com.google.android.videos/u0a181 (adj 15): empty for 1878s
+03-14 21:42:27.482  3641  3656 D ActivityManager: isAutoRunBlockedApp:: com.google.android.videos, Auto Run ON
+03-14 21:42:27.507  3641  4867 I ActivityManager: Start proc 17867:com.wsomacp/u0a32 for content provider com.wsomacp/.db.XCPDBSqlProvider
+03-14 21:42:27.522  3641  5616 I ActivityManager: Killing 15293:com.android.vending/u0a36 (adj 15): empty for 1878s
+03-14 21:42:27.557  3641  5625 I ActivityManager: Start proc 17879:com.sec.android.GeoLookout/u0a118 for broadcast-3 com.sec.android.GeoLookout/.widget.SafetyCareWidget
+03-14 21:42:27.557  3641  5625 I ActivityManager: Killing 15372:com.google.android.apps.maps/u0a132 (adj 15): empty for 1877s
+03-14 21:42:27.567  3641  3656 D ActivityManager: isAutoRunBlockedApp:: com.android.vending, Auto Run ON
+03-14 21:42:27.602  3641  5629 D ActivityManager: isAutoRunBlockedApp:: com.google.android.apps.maps, Auto Run ON
+03-14 21:42:27.632  3641  3658 I ActivityManager: Start proc 17893:com.sec.android.widgetapp.activeapplicationwidget/u0a161 for broadcast-3 com.sec.android.widgetapp.activeapplicationwidget/.ProgramMonitorProvider
+03-14 21:42:27.632  3641  3658 I ActivityManager: Killing 4294:com.google.process.gapps/u0a15 (adj 15): empty for 1877s
+03-14 21:42:27.677  3641  4567 I ActivityManager: Start proc 17906:com.samsung.widgetapp.lteroamingwidget/u0a130 for broadcast-3 com.samsung.widgetapp.lteroamingwidget/.LteRoamingWidgetProvider
+03-14 21:42:27.687  3641  4740 D ActivityManager: isAutoRunBlockedApp:: com.google.android.gsf, Auto Run ON
+03-14 21:42:27.742  3641  5236 I ActivityManager: Start proc 17921:com.sec.android.app.eventnotification/u0a110 for broadcast-3 com.sec.android.app.eventnotification/.IntentReceiver
+03-14 21:42:27.792  3641  3656 I ActivityManager: Start proc 17934:com.samsung.festivaleffect.homescreen/u0a124 for broadcast-3 com.samsung.festivaleffect.homescreen/.UnlockBroadcastReceiver
+03-14 21:42:27.877  3641  5236 I ActivityManager: Start proc 17954:eu.chainfire.supersu/u0a193 for broadcast-3 eu.chainfire.supersu/.UserPresentReceiver
+03-14 21:42:41.322  3641  4740 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:42:41.332  3641  5224 D ActivityManager:  Launching com.kakao.talk, updated priority
+03-14 21:42:41.412  3641  5202 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:42:41.447  3641  3918 I ActivityManager: Displayed com.kakao.talk/.activity.SplashActivity: +115ms
+03-14 21:42:41.527  3641  5215 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:42:41.562  3641  5236 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:42:41.572  3641  5236 D ActivityManager: post active user change for 0 fullscreen false isFloatingActivity() false isHomeActivity() false
+03-14 21:42:41.722  3641  5457 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:42:41.997  3641  3918 I ActivityManager: Displayed com.kakao.talk/.activity.main.MainTabFragmentActivity: +425ms (total +461ms)
+03-14 21:42:41.997  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:42:51.522  3641  5236 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:42:51.722  3641  5629 D ActivityManager: post active user change for 0 fullscreen false isFloatingActivity() false isHomeActivity() false
+03-14 21:42:51.782  3641  3918 I ActivityManager: Displayed com.kakao.talk/.activity.friend.miniprofile.MiniProfileActivity: +257ms
+03-14 21:42:51.787  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:42:53.247  3641  5622 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:42:53.322  3641  5237 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:42:55.347  3641  4740 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:42:55.372  3641  4740 D ActivityManager:  Launching com.android.systemui, updated priority
+03-14 21:42:55.402  3641  5622 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:42:55.847  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:42:56.192  3641  5622 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:42:56.232  3641  5224 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+03-14 21:42:56.307  3641  5236 I ActivityManager: Killing 8354:com.kakao.talk/u0a199 (adj 16): remove task
+03-14 21:42:56.402  3641  5625 D ActivityManager: isAutoRunBlockedApp:: com.kakao.talk, Auto Run ON
+03-14 21:42:56.402  3641  5625 W ActivityManager: Scheduling restart of crashed service com.kakao.talk/.service.MessengerService in 1000ms
+03-14 21:42:56.447  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:42:57.412  3641  3810 I ActivityManager: Start proc 18133:com.kakao.talk/u0a199 for service com.kakao.talk/.service.MessengerService
+03-14 21:42:58.492  3641  4740 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:42:58.512  3641  5202 I ActivityManager: Start proc 18200:dnlab.cs_cnu.com.vpn_test/u0a234 for activity dnlab.cs_cnu.com.vpn_test/dnlab.cs_cnu.com.local_vpn.MainActivity
+03-14 21:42:58.542  3641  3656 D ActivityManager:  Launching dnlab.cs_cnu.com.vpn_test, updated priority
+03-14 21:42:58.927  3641  5616 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:42:59.017  3641  3918 I ActivityManager: Displayed dnlab.cs_cnu.com.vpn_test/dnlab.cs_cnu.com.local_vpn.MainActivity: +511ms
+03-14 21:42:59.017  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:43:01.942  3641  5237 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:43:01.962  3641  5237 D ActivityManager:  Launching com.android.systemui, updated priority
+03-14 21:43:02.002  3641  5236 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:43:02.417  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:43:02.812  3641  5236 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:43:02.822  3641  3658 I ActivityManager: Killing 18200:dnlab.cs_cnu.com.vpn_test/u0a234 (adj 9): remove task
+03-14 21:43:02.852  3641  5613 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+03-14 21:43:02.932  3641  5613 D ActivityManager: isAutoRunBlockedApp:: dnlab.cs_cnu.com.vpn_test, Auto Run ON
+03-14 21:43:02.947  3641  3810 I ActivityManager: Force stopping eu.chainfire.supersu appid=10193 user=0: MARs-NonSticky-Kill-spcmpolicy(1)
+03-14 21:43:02.947  3641  3810 I ActivityManager: Killing 17954:eu.chainfire.supersu/u0a193 (adj 13): stop eu.chainfire.supersu cause MARs-NonSticky-Kill-spcmpolicy(1)
+03-14 21:43:02.947  3641  3810 D ActivityManager: isAutoRunBlockedApp:: eu.chainfire.supersu, Auto Run ON
+03-14 21:43:03.067  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:43:05.117  3641  4867 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:43:05.137  3641  4567 I ActivityManager: Start proc 18272:com.google.android.youtube/u0a186 for activity com.google.android.youtube/.app.honeycomb.Shell$HomeActivity
+03-14 21:43:05.157  3641  4740 D ActivityManager:  Launching com.google.android.youtube, updated priority
+03-14 21:43:05.242  3641  5622 I ActivityManager: Start proc 18296:com.google.process.gapps/u0a15 for content provider com.google.android.gsf/.gservices.GservicesProvider
+03-14 21:43:05.302  3641  4867 W ActivityManager: Permission Denial: getIntentSender() from pid=18272, uid=10186, (need uid=10015) is not allowed to send as package com.google.android.gms
+03-14 21:43:05.677  3641  5625 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:43:05.742  3641  5236 D ActivityManager: The following uid has registered to recieve broadcast for proxy related updates 10186
+03-14 21:43:06.247  3641  5215 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:43:06.347  3641  3918 I ActivityManager: Displayed com.google.android.youtube/com.google.android.apps.youtube.app.WatchWhileActivity: +600ms (total +1s221ms)
+03-14 21:43:06.352  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:43:18.062  3641  4567 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:43:18.087  3641  4567 D ActivityManager:  Launching com.android.systemui, updated priority
+03-14 21:43:18.122  3641  4867 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:43:18.547  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:43:18.877  3641  4867 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:43:18.887  3641  5622 I ActivityManager: Killing 18272:com.google.android.youtube/u0a186 (adj 9): remove task
+03-14 21:43:18.917  3641  5457 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+03-14 21:43:19.012  3641  5629 D ActivityManager: isAutoRunBlockedApp:: com.google.android.youtube, Auto Run ON
+03-14 21:43:19.132  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:45:21.707  3641  3909 I ActivityManager: Start proc 18531:com.samsung.android.sm.provider/1000 for content provider com.samsung.android.sm.provider/com.samsung.android.sm.database.SmProvider
+03-14 21:45:21.762  3641  4867 I ActivityManager: Killing 15796:com.sec.android.app.SecSetupWizard/1000 (adj 15): empty for 1809s
+03-14 21:45:21.762  3641  4867 I ActivityManager: Killing 15779:com.sec.android.app.popupuireceiver/1000 (adj 15): empty for 1809s
+03-14 21:45:21.832  3641  5215 D ActivityManager: isAutoRunBlockedApp:: com.sec.android.app.popupuireceiver, Auto Run ON
+03-14 21:45:21.852  3641  3656 D ActivityManager: isAutoRunBlockedApp:: com.sec.android.app.SecSetupWizard, Auto Run ON
+03-14 21:46:39.277  3641  5224 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:46:39.297  3641  5613 I ActivityManager: Start proc 18575:com.google.android.apps.photos/u0a228 for activity com.google.android.apps.photos/.home.HomeActivity
+03-14 21:46:39.317  3641  3656 D ActivityManager:  Launching com.google.android.apps.photos, updated priority
+03-14 21:46:39.642  3641  5613 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:46:39.762  3641  5215 D ActivityManager: The following uid has registered to recieve broadcast for proxy related updates 10228
+03-14 21:46:39.917  3641  3918 I ActivityManager: Displayed com.google.android.apps.photos/.home.HomeActivity: +630ms
+03-14 21:46:39.922  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:46:40.662  3641  4867 I ActivityManager: Start proc 18669:com.google.android.apps.plus/u0a143 for service com.google.android.apps.plus/com.google.android.apps.photos.service.PhotosService
+03-14 21:46:41.182  3641  5237 W ActivityManager: Permission Denial: opening provider com.android.providers.contacts.ContactsProvider2 from ProcessRecord{afc384e 18669:com.google.android.apps.plus/u0a143} (pid=18669, uid=10143) requires android.permission.READ_CONTACTS or android.permission.WRITE_CONTACTS
+03-14 21:46:41.212  3641  4740 W ActivityManager: Permission Denial: opening provider com.android.providers.contacts.ContactsProvider2 from ProcessRecord{afc384e 18669:com.google.android.apps.plus/u0a143} (pid=18669, uid=10143) requires android.permission.READ_CONTACTS or android.permission.WRITE_CONTACTS
+03-14 21:46:41.212  3641  3658 W ActivityManager: Permission Denial: opening provider com.android.providers.contacts.ContactsProvider2 from ProcessRecord{afc384e 18669:com.google.android.apps.plus/u0a143} (pid=18669, uid=10143) requires android.permission.READ_CONTACTS or android.permission.WRITE_CONTACTS
+03-14 21:46:55.782  3641  5613 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:46:55.802  3641  5613 D ActivityManager:  Launching com.android.systemui, updated priority
+03-14 21:46:55.842  3641  5622 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:46:56.297  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:46:56.672  3641  5629 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:46:56.687  3641  5236 I ActivityManager: Killing 18575:com.google.android.apps.photos/u0a228 (adj 9): remove task
+03-14 21:46:56.712  3641  5622 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+03-14 21:46:56.807  3641  5202 D ActivityManager: isAutoRunBlockedApp:: com.google.android.apps.photos, Auto Run ON
+03-14 21:46:56.947  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:46:59.662  3641  5629 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:46:59.682  3641  5224 I ActivityManager: Start proc 18746:com.android.chrome/u0a93 for activity com.android.chrome/com.google.android.apps.chrome.Main
+03-14 21:46:59.702  3641  4867 D ActivityManager:  Launching com.android.chrome, updated priority
+03-14 21:46:59.772  3641  5237 W ActivityManager: Permission Denial: getIntentSender() from pid=18746, uid=10093, (need uid=10015) is not allowed to send as package com.google.android.gms
+03-14 21:46:59.852  3641  5236 I ActivityManager: Start proc 18764:com.sec.android.app.chromecustomizations/u0a94 for content provider com.sec.android.app.chromecustomizations/com.sec.samsung.android.chromecustomizations.chromecustomizationprovider
+03-14 21:46:59.852  3641  5613 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:47:00.032  3641  5236 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:47:00.087  3641  5613 I ActivityManager: Start proc 18821:com.android.chrome:sandboxed_process0/u0i9 for service com.android.chrome/org.chromium.content.app.SandboxedProcessService0
+03-14 21:47:00.142  3641  3918 I ActivityManager: Displayed com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity: +286ms (total +470ms)
+03-14 21:47:00.192  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:47:00.202  3641  5215 D ActivityManager: The following uid has registered to recieve broadcast for proxy related updates 10093
+03-14 21:47:00.232  3641  4567 I ActivityManager: Start proc 18857:com.android.chrome:privileged_process0/u0a93 for service com.android.chrome/org.chromium.content.app.PrivilegedProcessService0
+03-14 21:47:00.237  3641  5616 D ActivityManager: The following uid has registered to recieve broadcast for proxy related updates 10093
+03-14 21:47:00.417  3641  4567 I ActivityManager: Start proc 18897:com.google.android.partnersetup/u0a19 for content provider com.google.android.partnersetup/.RlzAppProvider
+03-14 21:47:00.537  3641  3810 I ActivityManager: Start proc 18918:com.vlingo.midas/u0a40 for broadcast-3 com.vlingo.midas/com.samsung.alwaysmicon.AlwaysOnReceiver
+03-14 21:47:00.677  3641  5202 I ActivityManager: Start proc 18941:com.sec.android.automotive.drivelink/u0a103 for content provider com.sec.android.automotive.drivelink/com.nuance.sample.provider.SampleConfigProvider
+03-14 21:47:00.777  3641  5215 I ActivityManager: Start proc 18956:com.android.chrome:sandboxed_process1/u0i10 for service com.android.chrome/org.chromium.content.app.SandboxedProcessService1
+03-14 21:47:00.852  3641  3658 I ActivityManager: Start proc 18971:com.android.providers.partnerbookmarks/u0a140 for content provider com.android.providers.partnerbookmarks/.PartnerBookmarksProvider
+03-14 21:47:01.007  3641  5224 I ActivityManager: Process com.android.chrome:sandboxed_process1 (pid 18956)(adj 1) has died(136,1148)
+03-14 21:47:01.007  3641  5224 D ActivityManager: isAutoRunBlockedApp:: com.android.chrome, Auto Run ON
+03-14 21:47:01.007  3641  5224 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.SandboxedProcessService1 in 1000ms
+03-14 21:47:02.477  3641  4740 I ActivityManager: Start proc 18997:com.android.chrome:sandboxed_process2/u0i11 for service com.android.chrome/org.chromium.content.app.SandboxedProcessService2
+03-14 21:47:02.627  3641  5622 I ActivityManager: Process com.android.chrome:sandboxed_process2 (pid 18997)(adj 1) has died(128,1148)
+03-14 21:47:02.627  3641  5622 D ActivityManager: isAutoRunBlockedApp:: com.android.chrome, Auto Run ON
+03-14 21:47:02.627  3641  5622 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.SandboxedProcessService2 in 1000ms
+03-14 21:47:03.312  3641  5215 I ActivityManager: Start proc 19014:com.android.chrome:sandboxed_process3/u0i12 for service com.android.chrome/org.chromium.content.app.SandboxedProcessService3
+03-14 21:47:03.442  3641  4740 I ActivityManager: Process com.android.chrome:sandboxed_process3 (pid 19014)(adj 1) has died(124,1148)
+03-14 21:47:03.442  3641  4740 D ActivityManager: isAutoRunBlockedApp:: com.android.chrome, Auto Run ON
+03-14 21:47:03.442  3641  4740 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.SandboxedProcessService3 in 1000ms
+03-14 21:47:03.477  3641  5202 I ActivityManager: Start proc 19029:com.android.chrome:sandboxed_process4/u0i13 for service com.android.chrome/org.chromium.content.app.SandboxedProcessService4
+03-14 21:47:03.627  3641  5236 I ActivityManager: Process com.android.chrome:sandboxed_process4 (pid 19029)(adj 1) has died(121,1148)
+03-14 21:47:03.627  3641  5236 D ActivityManager: isAutoRunBlockedApp:: com.android.chrome, Auto Run ON
+03-14 21:47:03.627  3641  5236 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.SandboxedProcessService4 in 1000ms
+03-14 21:47:03.767  3641  5625 I ActivityManager: Start proc 19044:com.android.chrome:sandboxed_process5/u0i14 for service com.android.chrome/org.chromium.content.app.SandboxedProcessService5
+03-14 21:47:04.107  3641  5202 I ActivityManager: Process com.android.chrome:sandboxed_process5 (pid 19044)(adj 1) has died(120,1148)
+03-14 21:47:04.107  3641  5202 D ActivityManager: isAutoRunBlockedApp:: com.android.chrome, Auto Run ON
+03-14 21:47:04.107  3641  5202 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.SandboxedProcessService5 in 1000ms
+03-14 21:47:07.377  3641  5202 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:47:07.402  3641  5202 D ActivityManager:  Launching com.android.systemui, updated priority
+03-14 21:47:07.437  3641  5224 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:47:07.877  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:47:08.227  3641  5629 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:47:08.242  3641  5616 I ActivityManager: Killing 18857:com.android.chrome:privileged_process0/u0a93 (adj 9): remove task
+03-14 21:47:08.247  3641  5616 I ActivityManager: Killing 18746:com.android.chrome/u0a93 (adj 9): remove task
+03-14 21:47:08.247  3641  5616 I ActivityManager: Killing 18821:com.android.chrome:sandboxed_process0/u0a93i9 (adj 9): remove task
+03-14 21:47:08.272  3641  5457 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+03-14 21:47:08.307  3641  5215 D ActivityManager: isAutoRunBlockedApp:: com.android.chrome, Auto Run ON
+03-14 21:47:08.307  3641  5215 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.SandboxedProcessService0 in 1000ms
+03-14 21:47:08.367  3641  5616 W ActivityManager: ProcessRecord{1d52603 18857:com.android.chrome:privileged_process0/u0a93} is already killed
+03-14 21:47:08.372  3641  5616 W ActivityManager: Exception when unbinding service com.android.chrome/org.chromium.content.app.PrivilegedProcessService0
+03-14 21:47:08.372  3641  5616 W ActivityManager: android.os.DeadObjectException
+03-14 21:47:08.372  3641  5616 W ActivityManager: 	at android.os.BinderProxy.transactNative(Native Method)
+03-14 21:47:08.372  3641  5616 W ActivityManager: 	at android.os.BinderProxy.transact(Binder.java:503)
+03-14 21:47:08.372  3641  5616 W ActivityManager: 	at android.app.ApplicationThreadProxy.scheduleUnbindService(ApplicationThreadNative.java:1260)
+03-14 21:47:08.372  3641  5616 W ActivityManager: 	at com.android.server.am.ActiveServices.removeConnectionLocked(ActiveServices.java:2136)
+03-14 21:47:08.372  3641  5616 W ActivityManager: 	at com.android.server.am.ActiveServices.killServicesLocked(ActiveServices.java:2499)
+03-14 21:47:08.372  3641  5616 W ActivityManager: 	at com.android.server.am.ActivityManagerService.cleanUpApplicationRecordLocked(ActivityManagerService.java:21491)
+03-14 21:47:08.372  3641  5616 W ActivityManager: 	at com.android.server.am.ActivityManagerService.handleAppDiedLocked(ActivityManagerService.java:7342)
+03-14 21:47:08.372  3641  5616 W ActivityManager: 	at com.android.server.am.ActivityManagerService.appDiedLocked(ActivityManagerService.java:7574)
+03-14 21:47:08.372  3641  5616 W ActivityManager: 	at com.android.server.am.ActivityManagerService$AppDeathRecipient.binderDied(ActivityManagerService.java:1922)
+03-14 21:47:08.372  3641  5616 W ActivityManager: 	at android.os.BinderProxy.sendDeathNotice(Binder.java:558)
+03-14 21:47:08.372  3641  5616 W ActivityManager: ProcessRecord{1d52603 18857:com.android.chrome:privileged_process0/u0a93} is already killed
+03-14 21:47:08.377  3641  5616 D ActivityManager: isAutoRunBlockedApp:: com.android.chrome, Auto Run ON
+03-14 21:47:08.387  3641  5202 D ActivityManager: isAutoRunBlockedApp:: com.android.chrome, Auto Run ON
+03-14 21:47:08.502  3641  3918 D ActivityManager: mDVFSHelper.release()
+03-14 21:47:09.627  3641  5629 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:47:09.652  3641  5237 I ActivityManager: Start proc 19085:com.google.android.youtube/u0a186 for activity com.google.android.youtube/.app.honeycomb.Shell$HomeActivity
+03-14 21:47:09.672  3641  5202 D ActivityManager:  Launching com.google.android.youtube, updated priority
+03-14 21:47:09.802  3641  5224 W ActivityManager: Permission Denial: getIntentSender() from pid=19085, uid=10186, (need uid=10015) is not allowed to send as package com.google.android.gms
+03-14 21:47:10.097  3641  5202 D ActivityManager: mDVFSHelper.acquire()
+03-14 21:47:10.157  3641  5237 D ActivityManager: The following uid has registered to recieve broadcast for proxy related updates 10186
+03-14 21:47:10.627  3641  4867 D ActivityManager: post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() false
+03-14 21:47:10.737  3641  3918 I ActivityManager: Displayed com.google.android.youtube/com.google.android.apps.youtube.app.WatchWhileA

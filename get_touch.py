@@ -10,10 +10,17 @@ one_touch = []
 
 for row in getevent_file:
 
+    # TODO: 첫번째 라인 삭제해야 함
+    # TODO: 마지막라인에 잘리는것 확인해야 한다.
+
     row = row.strip()
     split_list = re.split(' |\[ |\]',row)
     split_list = list(filter(lambda item: item != '', split_list))
-    split_list.remove(split_list[1])
+    try:
+        split_list.remove(split_list[1])
+    except Exception as e:
+        print(split_list)
+        raise e
     if first_flag:
         first_time = float(split_list[0])
         first_flag = False

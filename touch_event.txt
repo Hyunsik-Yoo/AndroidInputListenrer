@@ -1,4 +1,3 @@
-add device 1: /dev/input/event2
 [  179582.491158] /dev/input/event2: EV_ABS       ABS_MT_TRACKING_ID   0000066c            
 [  179582.491158] /dev/input/event2: EV_KEY       BTN_TOUCH            DOWN                
 [  179582.491158] /dev/input/event2: EV_KEY       BTN_TOOL_FINGER      DOWN                
@@ -1408,4 +1407,3 @@ add device 1: /dev/input/event2
 [  179607.914657] /dev/input/event2: EV_ABS       ABS_MT_POSITION_X    000003cf            
 [  179607.914657] /dev/input/event2: EV_ABS       ABS_MT_POSITION_Y    000005b6            
 [  179607.914657] /dev/input/event2: EV_SYN       SYN_REPORT           00000000            
-[ 
