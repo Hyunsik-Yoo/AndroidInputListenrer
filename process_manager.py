@@ -1,9 +1,14 @@
+import operator
+
 class ProcessManager:
-    
+
     def __init__(self):
         self.process_list = list()
 
     def get_process_list(self):
+        """
+        :return: 프로세스 정보가 담긴 리스트 
+        """
         return self.process_list
 
     def is_app_killed(self, package_name):
@@ -12,7 +17,7 @@ class ProcessManager:
         """
         for process in reversed(self.process_list):
             if process['package_name'] == package_name:
-                if process['kill_time'] == None:
+                if process['kill_time'] is None:
                     return False
                 else:
                     return True
@@ -29,6 +34,7 @@ class ProcessManager:
         process = dict()
         process['package_name'] = package_name
         process['start_time'] = start_time
+        process['touch'] = list()
         process['kill_time'] = None
 
         self.process_list.append(process)
@@ -50,10 +56,30 @@ class ProcessManager:
         전체 리스트를 순회하면서 kill_time이 없는(아직 종료되지 않은 프로세스)들을 제거해버린다.
         종료되지 않은 프로세스들의 kill_time은 None으로 되어있다.
         """
-        
         for process in self.process_list:
             if process['kill_time'] == None:
                 self.process_list.remove(process)
-            
+
+    def put_touch_event(self, list_event):
+        self.process_list = self.sort_by_time()
+        for event in list_event:
+            start_time = event[0]
+
+            for process in self.process_list:
+                if start_time > process['start_time']:
+                    process['touch'].append(event)
+                    break
+
+
+    def sort_by_time(self):
+        """
+        process_list를 start_time을 기준으로 오름차준 정렬하여 반환해 준다.
+        :return start_time으로 정렬된 process_list: 
+        """
+        sorted_list = sorted(self.process_list, key=operator.itemgetter('start_time'))
+
+        return sorted_list
+
+
 
     
